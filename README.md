@@ -1,7 +1,7 @@
 <!-- GLITCH HEADER WAVE BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MADARA%2019854&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=⚡%20Telegram%20Bot%20Developer%20%7C%20Python%20Wizard%20%7C%20Open%20Source%20Builder&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MADARA%20412&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=⚡%20Telegram%20Bot%20Developer%20%7C%20Python%20Wizard%20%7C%20Open%20Source%20Builder&descAlignY=55&descSize=16" width="100%"/>
 
 </div>
 
@@ -28,12 +28,12 @@
 <!-- WAVING GIF + INTRO -->
 <img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
 
-### 👾 Hey there! I'm **ragini19854-prog** 
+### 👾 Hey there! I'm **Madara ** 
 
 ```python
 class MadaraDev:
     def __init__(self):
-        self.name       = "ragini19854-prog"
+        self.name       = "Madara"
         self.alias      = "Madara"
         self.location   = "India 🇮🇳"
         self.languages  = ["Python", "JavaScript"]
