@@ -50,7 +50,7 @@ me.say_hi()
 
 - 🤖 Building **Telegram Bots** since day 1
 - 🎵 Specialist in **Music / VC Bots** — zero VPS deploy
-- 🔥 **31 repos** and counting · 1,074 contributions in 2026
+- 🔥 **62 repos** and counting · 1,074 contributions in 2026
 - 🌐 Open Source contributor & bot developer
 - ⚡ Fast deployer on **Render, Koyeb, Railway**
 
